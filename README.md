@@ -55,5 +55,10 @@ node index.js
 ## Facultatif
 - **Vous pouvez supprimer README.md**
 
+# Support
+
+Le support est ici ! : [https://discord.gg/wztuKaWdSZ](https://discord.gg/wztuKaWdSZ)
+Et donnez des idées aussi !
+
 ## Licence
 Ce projet est sous licence MIT.
