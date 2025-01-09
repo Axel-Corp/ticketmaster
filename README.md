@@ -1,7 +1,9 @@
 
-# Système de Tickets pour un Bot Discord
+# Ticket Master
 
 Ce projet implémente un système de tickets pour un bot Discord, permettant aux utilisateurs de créer et de gérer des tickets avec différentes actions comme la réclamation, la fermeture et l'invitation d'autres utilisateurs. Le bot prend également en charge la fermeture automatique des tickets après 24 heures d'inactivité et la transcription des conversations de tickets pour un archivage.
+
+### (Je le continuerai Surement)
 
 ## Fonctionnalités
 
